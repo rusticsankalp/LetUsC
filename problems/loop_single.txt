@@ -1,0 +1,44 @@
+**Question 1**
+Write a program to print numbers from 1 to 10.
+
+**Question 2**
+Write a program to calculate the sum of first 10 natural number.
+
+**Question 3**
+Write a program that prompts the user to input a positive integer. 
+It should then print the multiplication table of that number. 
+
+**Question 4**
+Write a program to find the factorial value of any number entered through the keyboard. 
+
+**Question 5**
+Two numbers are entered through the keyboard. Write a program to 
+find the value of one number raised to the power of another. 
+
+**Question 6**
+Write a do-while loop that asks the user to enter two numbers. The 
+numbers should be added and the sum displayed. The loop should ask the 
+user whether he or she wishes to perform the operation again. If so, 
+the loop should repeat; otherwise it should terminate. 
+
+**Question 7**
+Write a program to enter the numbers till the user wants and at the 
+end it should display the count of positive, negative and zeros 
+entered. 
+
+**Question 8**
+Write a program to enter the numbers till the user wants and at the 
+end the program should display the largest and smallest numbers entered.
+
+**Question 9**
+Write a program to print Fibonacci series of n terms where n is input by user :  
+0 1 1 2 3 5 8 13 24 ..... 
+
+**Question 9**
+Wire a program to print the following patterns
+
+********* *         *     *          1         1
+********* **       **    ***        222       212
+********* ***     ***   *****      33333     32123
+********* ****   ****  *******    4444444   4321234
+********* ***** ***** ********** 555555555 543212345 
